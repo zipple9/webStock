@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql:47.101.44.170:3306/shiro?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    data-username: wzy
+    data-password: 111111
